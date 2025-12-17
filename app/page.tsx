@@ -32,7 +32,7 @@ const STREAMER_SLUGS = [
   'cuffem',
   'shnaggyhose',
   'konvy',
-  'markynextdoot',
+  'markynextdoor',
   'sweatergxd',
   'xqc',
   'jakefuture27',
