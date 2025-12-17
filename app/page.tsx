@@ -314,7 +314,7 @@ export default function Home() {
           justifyContent: 'center',
           gap: '15px'
         }}>
-          WATCH SSB
+          WATCH SSB LIVE !
           <svg className="star star-right" width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M10.5 0L10.9982 6.54715C11.1387 8.39378 12.6062 9.86131 14.4529 10.0018L21 10.5L14.4528 10.9982C12.6062 11.1387 11.1387 12.6062 10.9982 14.4529L10.5 21L10.0018 14.4528C9.86131 12.6062 8.39378 11.1387 6.54715 10.9982L0 10.5L6.54715 10.0018C8.39378 9.86131 9.86131 8.39378 10.0018 6.54715L10.5 0Z" fill="#53FC18"></path>
           </svg>
